@@ -8,6 +8,6 @@
 Dự án đang trong giai đoạn: ** Phân tích yêu cầu (Requirement Analysis) **.
 - [x] Khảo sát nhu cầu người dùng thực tế.
 - [x] Xây dựng bộ User Requirements (Nhóm 1).
-- [/] Thiết kế System Requirements từ User Requirement (nhóm 2) (Phần cứng & nguồn dữ liệu).
+- [x] Thiết kế System Requirements từ User Requirement (nhóm 2) (Phần cứng & nguồn dữ liệu).
 - [ ] Phát triển code core (Coming soon).
 
